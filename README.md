@@ -1,4 +1,4 @@
-Zomato Market Intelligence: Advanced Cuisine Clustering & Recommendation Framework
+**Zomato Market Intelligence: Advanced Cuisine Clustering & Recommendation Framework**
 
 🎯 Project Overview
 This repository contains an end-to-end Unsupervised Machine Learning pipeline designed to analyze over 10,000 restaurant data points. By leveraging Natural Language Processing (NLP) and K-Means Clustering, this project identifies latent patterns in culinary offerings and customer sentiment to drive high-precision restaurant recommendations.
